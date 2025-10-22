@@ -1,5 +1,4 @@
 - 👋 Hi, I am WOANS.
-- 
  <!--- - 👀 I’m interested in ... --->
 - 📖 I am always learning;
     - wondering why guideance is so hard to find.
