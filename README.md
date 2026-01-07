@@ -1,7 +1,8 @@
 - 👋 Hi, I am WOANS.
  <!--- - 👀 I’m interested in ... --->
 - 📖 I am always learning;
-    - wondering why guideance is so hard to find.
+    - that we are fortunate to be the smartest (Earth) creatures ever.
+    - that something impossibly more sophisticated than us reached space...
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
 <!--- - 😄 Pronouns: ... --->
